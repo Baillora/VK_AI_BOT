@@ -203,15 +203,13 @@ start.bat
 
 Если что-то работает некорректно — создайте issue в репозитории и приложите лог или описание шагов воспроизведения.
 
+---
 
 ## Авторы
 
 - [@Baillora](https://github.com/Baillora)
 
-
-##
-
-##
+---
 
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://choosealicense.com/licenses/mit/)
 [![Release](https://img.shields.io/github/v/release/Baillora/VK_AI_BOT?style=for-the-badge&logo=github&label=Release&color=blue)](https://github.com/Baillora/VK_AI_BOT/releases)
