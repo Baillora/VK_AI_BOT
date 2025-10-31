@@ -92,7 +92,7 @@ pip install -r requirements.txt
 ### 4. Настройка локального API-прокси для Qwen (обязательно для Qwen)
 
 Для работы моделей `qwen3-max` и `qwen3-vl-plus` требуется запущенный API-прокси.  
-Рекомендуется использовать **[FreeQwenApi](https://github.com/y13sint/FreeQwenApi)**:
+Рекомендуется использовать **[FreeQwenApi by y13sint](https://github.com/y13sint/FreeQwenApi)**:
 
 
 По умолчанию прокси доступен по адресу `http://localhost:3264`.
